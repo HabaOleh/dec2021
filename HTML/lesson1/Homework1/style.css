@@ -1,0 +1,15 @@
+.pic{
+    width: 350px;
+}
+.names{
+    color: darkgreen;
+    background: rgb(172, 200, 53);
+}
+h1{
+    background: #173879;
+    color: aqua;
+}
+p{
+    color: #2e1a92;
+    background: #bebbbb;
+}
