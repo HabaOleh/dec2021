@@ -1,0 +1,14 @@
+.foto{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+.post{
+    color:black;
+    background: #961d56;
+}
+.head{
+    background: #570f75;
+    text-align: center;
+    color: azure;
+}
